@@ -1,3 +1,3 @@
 # bookbot
 Boot.div build a local dev environment exercise.
-Test
+BookBot is my first git project!
